@@ -73,6 +73,146 @@
       "difficulty": "expert",
       "isPremium": true,
       "midiPath": "songs/turkish_march.mid"
+    },
+    {
+      "id": "gymnopedie_no1",
+      "title": "Gymnopédie No. 1",
+      "artist": "Erik Satie",
+      "difficulty": "easy",
+      "midiPath": "songs/gymnopedie_no1.mid"
+    },
+    {
+      "id": "gymnopedie_no3",
+      "title": "Gymnopédie No. 3",
+      "artist": "Erik Satie",
+      "difficulty": "easy",
+      "midiPath": "songs/gymnopedie_no3.mid"
+    },
+    {
+      "id": "gymnopedie_no2",
+      "title": "Gymnopédie No. 2",
+      "artist": "Erik Satie",
+      "difficulty": "easy",
+      "midiPath": "songs/gymnopedie_no2.mid"
+    },
+    {
+      "id": "chopin_prelude_op28_no4",
+      "title": "Prélude Op. 28 No. 4",
+      "artist": "Frédéric Chopin",
+      "difficulty": "easy",
+      "midiPath": "songs/chopin_prelude_op28_no4.mid"
+    },
+    {
+      "id": "venetian_gondola_song",
+      "title": "Venetian Gondola Song",
+      "artist": "Felix Mendelssohn",
+      "difficulty": "easy",
+      "midiPath": "songs/venetian_gondola_song.mid"
+    },
+    {
+      "id": "bach_minuet_a_minor",
+      "title": "Minuet in A Minor",
+      "artist": "Johann Sebastian Bach",
+      "difficulty": "easy",
+      "midiPath": "songs/bach_minuet_a_minor.mid"
+    },
+    {
+      "id": "bach_minuet_b_flat",
+      "title": "Minuet in B-flat Major",
+      "artist": "Johann Sebastian Bach",
+      "difficulty": "easy",
+      "midiPath": "songs/bach_minuet_b_flat.mid"
+    },
+    {
+      "id": "les_tendres_plaintes",
+      "title": "Les Tendres Plaintes",
+      "artist": "Jean-Philippe Rameau",
+      "difficulty": "easy",
+      "midiPath": "songs/les_tendres_plaintes.mid"
+    },
+    {
+      "id": "rameau_tambourin",
+      "title": "Tambourin",
+      "artist": "Jean-Philippe Rameau",
+      "difficulty": "medium",
+      "midiPath": "songs/rameau_tambourin.mid"
+    },
+    {
+      "id": "haydn_menuetto_hob16_28",
+      "title": "Menuetto, Hob. XVI:28",
+      "artist": "Joseph Haydn",
+      "difficulty": "medium",
+      "midiPath": "songs/haydn_menuetto_hob16_28.mid"
+    },
+    {
+      "id": "ases_death",
+      "title": "Åse's Death",
+      "artist": "Edvard Grieg",
+      "difficulty": "medium",
+      "midiPath": "songs/ases_death.mid"
+    },
+    {
+      "id": "old_french_song",
+      "title": "Old French Song",
+      "artist": "Pyotr Ilyich Tchaikovsky",
+      "difficulty": "medium",
+      "midiPath": "songs/old_french_song.mid"
+    },
+    {
+      "id": "morning_prayer",
+      "title": "Morning Prayer",
+      "artist": "Pyotr Ilyich Tchaikovsky",
+      "difficulty": "medium",
+      "midiPath": "songs/morning_prayer.mid"
+    },
+    {
+      "id": "bach_polonaise_g_minor",
+      "title": "Polonaise in G Minor",
+      "artist": "Johann Sebastian Bach",
+      "difficulty": "medium",
+      "midiPath": "songs/bach_polonaise_g_minor.mid"
+    },
+    {
+      "id": "chopin_nouvelle_etude_no1",
+      "title": "Nouvelle Étude No. 1",
+      "artist": "Frédéric Chopin",
+      "difficulty": "medium",
+      "midiPath": "songs/chopin_nouvelle_etude_no1.mid"
+    },
+    {
+      "id": "clair_de_lune",
+      "title": "Clair de Lune",
+      "artist": "Claude Debussy",
+      "difficulty": "medium",
+      "midiPath": "songs/clair_de_lune.mid"
+    },
+    {
+      "id": "schumann_romance_op28_no2",
+      "title": "Romance Op. 28 No. 2",
+      "artist": "Robert Schumann",
+      "difficulty": "hard",
+      "midiPath": "songs/schumann_romance_op28_no2.mid"
+    },
+    {
+      "id": "chopin_prelude_op28_no20",
+      "title": "Prélude Op. 28 No. 20",
+      "artist": "Frédéric Chopin",
+      "difficulty": "hard",
+      "midiPath": "songs/chopin_prelude_op28_no20.mid"
+    },
+    {
+      "id": "brahms_intermezzo_op118_no2",
+      "title": "Intermezzo Op. 118 No. 2",
+      "artist": "Johannes Brahms",
+      "difficulty": "hard",
+      "midiPath": "songs/brahms_intermezzo_op118_no2.mid"
+    },
+    {
+      "id": "beethoven_sonata_25_andante",
+      "title": "Sonata No. 25: Andante",
+      "artist": "Ludwig van Beethoven",
+      "difficulty": "hard",
+      "midiPath": "songs/beethoven_sonata_25_andante.mid"
     }
   ]
 }

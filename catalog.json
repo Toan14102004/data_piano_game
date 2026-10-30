@@ -213,6 +213,272 @@
       "artist": "Ludwig van Beethoven",
       "difficulty": "hard",
       "midiPath": "songs/beethoven_sonata_25_andante.mid"
+    },
+    {
+      "id": "dying_swan",
+      "title": "The Dying Swan",
+      "artist": "Louis Moreau Gottschalk",
+      "difficulty": "easy",
+      "midiPath": "songs/dying_swan.mid"
+    },
+    {
+      "id": "chopin_prelude_op28_no4_peters",
+      "title": "Prélude Op. 28 No. 4 (Peters)",
+      "artist": "Frédéric Chopin",
+      "difficulty": "easy",
+      "midiPath": "songs/chopin_prelude_op28_no4_peters.mid"
+    },
+    {
+      "id": "in_may",
+      "title": "In May",
+      "artist": "Franz Behr",
+      "difficulty": "easy",
+      "midiPath": "songs/in_may.mid"
+    },
+    {
+      "id": "gondellied",
+      "title": "Gondellied",
+      "artist": "Dora Pejačević",
+      "difficulty": "easy",
+      "midiPath": "songs/gondellied.mid"
+    },
+    {
+      "id": "bach_ermuntre_dich",
+      "title": "Ermuntre dich, mein Geist",
+      "artist": "Johann Sebastian Bach",
+      "difficulty": "easy",
+      "midiPath": "songs/bach_ermuntre_dich.mid"
+    },
+    {
+      "id": "bach_ricercare_a_6",
+      "title": "Ricercare a 6",
+      "artist": "Johann Sebastian Bach",
+      "difficulty": "easy",
+      "midiPath": "songs/bach_ricercare_a_6.mid"
+    },
+    {
+      "id": "bach_aria_warum_betruebst",
+      "title": "Aria: Warum betrübst du dich",
+      "artist": "Johann Sebastian Bach",
+      "difficulty": "easy",
+      "midiPath": "songs/bach_aria_warum_betruebst.mid"
+    },
+    {
+      "id": "la_bayadere_act2",
+      "title": "La Bayadère, Act II",
+      "artist": "Ludwig Minkus",
+      "difficulty": "easy",
+      "midiPath": "songs/la_bayadere_act2.mid"
+    },
+    {
+      "id": "bach_gott_wie_gross",
+      "title": "Gott, wie gross ist deine Güte",
+      "artist": "Johann Sebastian Bach",
+      "difficulty": "easy",
+      "midiPath": "songs/bach_gott_wie_gross.mid"
+    },
+    {
+      "id": "traviata_scena_duettino",
+      "title": "La Traviata: Scena e Duettino",
+      "artist": "Giuseppe Verdi",
+      "difficulty": "easy",
+      "midiPath": "songs/traviata_scena_duettino.mid"
+    },
+    {
+      "id": "bach_contrapunctus_1",
+      "title": "Art of Fugue: Contrapunctus I",
+      "artist": "Johann Sebastian Bach",
+      "difficulty": "easy",
+      "midiPath": "songs/bach_contrapunctus_1.mid"
+    },
+    {
+      "id": "bach_gib_dich_zufrieden_dm",
+      "title": "Gib dich zufrieden (D Minor)",
+      "artist": "Johann Sebastian Bach",
+      "difficulty": "medium",
+      "midiPath": "songs/bach_gib_dich_zufrieden_dm.mid"
+    },
+    {
+      "id": "bach_aria_anna_magdalena",
+      "title": "Aria (Anna Magdalena)",
+      "artist": "Johann Sebastian Bach",
+      "difficulty": "medium",
+      "midiPath": "songs/bach_aria_anna_magdalena.mid"
+    },
+    {
+      "id": "bach_wtc1_fugue_24",
+      "title": "WTC I: Fugue No. 24",
+      "artist": "Johann Sebastian Bach",
+      "difficulty": "medium",
+      "midiPath": "songs/bach_wtc1_fugue_24.mid"
+    },
+    {
+      "id": "bach_gib_dich_zufrieden_em",
+      "title": "Gib dich zufrieden (E Minor)",
+      "artist": "Johann Sebastian Bach",
+      "difficulty": "medium",
+      "midiPath": "songs/bach_gib_dich_zufrieden_em.mid"
+    },
+    {
+      "id": "hail_spirit_of_liberty",
+      "title": "Hail to the Spirit of Liberty",
+      "artist": "John Philip Sousa",
+      "difficulty": "medium",
+      "midiPath": "songs/hail_spirit_of_liberty.mid"
+    },
+    {
+      "id": "handel_menuet_ii_trio",
+      "title": "Menuet II (Trio)",
+      "artist": "George Frideric Handel",
+      "difficulty": "medium",
+      "midiPath": "songs/handel_menuet_ii_trio.mid"
+    },
+    {
+      "id": "handel_fuga",
+      "title": "Fuga",
+      "artist": "George Frideric Handel",
+      "difficulty": "medium",
+      "midiPath": "songs/handel_fuga.mid"
+    },
+    {
+      "id": "bach_sinfonia_5",
+      "title": "Sinfonia No. 5",
+      "artist": "Johann Sebastian Bach",
+      "difficulty": "medium",
+      "midiPath": "songs/bach_sinfonia_5.mid"
+    },
+    {
+      "id": "mountaineers_song",
+      "title": "The Mountaineer's Song",
+      "artist": "Edvard Grieg",
+      "difficulty": "medium",
+      "midiPath": "songs/mountaineers_song.mid"
+    },
+    {
+      "id": "bach_aus_meines_herzens_grunde",
+      "title": "Aus meines Herzens Grunde",
+      "artist": "Johann Sebastian Bach",
+      "difficulty": "medium",
+      "midiPath": "songs/bach_aus_meines_herzens_grunde.mid"
+    },
+    {
+      "id": "handel_impertinence",
+      "title": "Impertinence",
+      "artist": "George Frideric Handel",
+      "difficulty": "medium",
+      "midiPath": "songs/handel_impertinence.mid"
+    },
+    {
+      "id": "bach_minuet_c_minor",
+      "title": "Minuet in C Minor",
+      "artist": "Johann Sebastian Bach",
+      "difficulty": "medium",
+      "midiPath": "songs/bach_minuet_c_minor.mid"
+    },
+    {
+      "id": "the_gladiator",
+      "title": "The Gladiator",
+      "artist": "John Philip Sousa",
+      "difficulty": "medium",
+      "midiPath": "songs/the_gladiator.mid"
+    },
+    {
+      "id": "traviata_coro_baccanale",
+      "title": "La Traviata: Coro Baccanale",
+      "artist": "Giuseppe Verdi",
+      "difficulty": "medium",
+      "midiPath": "songs/traviata_coro_baccanale.mid"
+    },
+    {
+      "id": "rimsky_fugue_on_bach",
+      "title": "Fugue on B-A-C-H",
+      "artist": "Nikolai Rimsky-Korsakov",
+      "difficulty": "medium",
+      "midiPath": "songs/rimsky_fugue_on_bach.mid"
+    },
+    {
+      "id": "bach_gib_dich_zufrieden_fmaj",
+      "title": "Gib dich zufrieden (F Major)",
+      "artist": "Johann Sebastian Bach",
+      "difficulty": "medium",
+      "midiPath": "songs/bach_gib_dich_zufrieden_fmaj.mid"
+    },
+    {
+      "id": "the_harebell",
+      "title": "The Harebell",
+      "artist": "William Smallwood",
+      "difficulty": "medium",
+      "midiPath": "songs/the_harebell.mid"
+    },
+    {
+      "id": "giselle_pas_de_deux",
+      "title": "Giselle: Pas de Deux",
+      "artist": "Adolphe Adam",
+      "difficulty": "medium",
+      "midiPath": "songs/giselle_pas_de_deux.mid"
+    },
+    {
+      "id": "traviata_preludio",
+      "title": "La Traviata: Preludio",
+      "artist": "Giuseppe Verdi",
+      "difficulty": "medium",
+      "midiPath": "songs/traviata_preludio.mid"
+    },
+    {
+      "id": "traviata_brindisi",
+      "title": "La Traviata: Brindisi",
+      "artist": "Giuseppe Verdi",
+      "difficulty": "medium",
+      "midiPath": "songs/traviata_brindisi.mid"
+    },
+    {
+      "id": "bach_wtc1_prelude_8",
+      "title": "WTC I: Prelude No. 8",
+      "artist": "Johann Sebastian Bach",
+      "difficulty": "medium",
+      "midiPath": "songs/bach_wtc1_prelude_8.mid"
+    },
+    {
+      "id": "czerny_op821_no7",
+      "title": "Exercise No. 7, Op. 821",
+      "artist": "Carl Czerny",
+      "difficulty": "medium",
+      "midiPath": "songs/czerny_op821_no7.mid"
+    },
+    {
+      "id": "fischer_erato_allemande",
+      "title": "Erato: Allemande",
+      "artist": "J. C. F. Fischer",
+      "difficulty": "medium",
+      "midiPath": "songs/fischer_erato_allemande.mid"
+    },
+    {
+      "id": "burgmuller_la_pastorale",
+      "title": "La Pastorale",
+      "artist": "Friedrich Burgmüller",
+      "difficulty": "medium",
+      "midiPath": "songs/burgmuller_la_pastorale.mid"
+    },
+    {
+      "id": "bach_ich_dank_dir",
+      "title": "Ich dank dir, lieber Herre",
+      "artist": "Johann Sebastian Bach",
+      "difficulty": "medium",
+      "midiPath": "songs/bach_ich_dank_dir.mid"
+    },
+    {
+      "id": "bach_polonaise_d_minor",
+      "title": "Polonaise in D Minor",
+      "artist": "Johann Sebastian Bach",
+      "difficulty": "medium",
+      "midiPath": "songs/bach_polonaise_d_minor.mid"
+    },
+    {
+      "id": "mueller_siciliano",
+      "title": "Siciliano",
+      "artist": "August Eberhard Müller",
+      "difficulty": "medium",
+      "midiPath": "songs/mueller_siciliano.mid"
     }
   ]
 }
